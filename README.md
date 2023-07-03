@@ -16,9 +16,11 @@ Scores are stored in a txt file.
 
 # Bot's play:
 Early stage:
+
 ![obraz](https://github.com/mikolajWasik/snake/assets/96197911/8c5a9a2f-3d04-4230-9f83-ffbd401e32c5)
 
 Late stage:
+
 ![obraz](https://github.com/mikolajWasik/snake/assets/96197911/39a2f1d1-9a47-4eb2-a363-7e0d924d2603)
 
 Bot almost stopped taking shortcuts because they were too dangerous. Max possible score is 2400 and then the snake occupies every board's tile.
