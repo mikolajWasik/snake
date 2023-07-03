@@ -7,7 +7,7 @@ Bot's algorithm generates Hamilton's cycle - a path that goes through each field
 # Main menu:
 ![obraz](https://github.com/mikolajWasik/snake/assets/96197911/7526ea2f-3c41-405b-8012-3d234cda4afc)
 
-Scores are stored in a txt file.
+Scores are stored in a .txt file.
 
 # Game screen:
 ![obraz](https://github.com/mikolajWasik/snake/assets/96197911/9a9c0811-9d78-4661-97d5-3a5595f3a8b5)
