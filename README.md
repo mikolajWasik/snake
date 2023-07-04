@@ -2,7 +2,7 @@
 
 # Description
 Simple classic Snake written in Python's pygame and PyQt5 in which you may either play or watch the game being played by bot.
-Bot's algorithm generates Hamilton's cycle - a path that goes through each field exactly once and ends where it started - on the game board and checks if the snake can take a shortcut on its path (the condition is that the snake must be shorter than a number of skipped fields). Normal snake's rules apply. The bot's winning chance is 100%. The cycle is different every time.
+Bot's algorithm generates Hamilton's cycle (a path that goes through each field exactly once and ends where it started) on the game board and checks if the snake can take a shortcut on its path (the condition is that the snake must be shorter than a number of skipped fields). Normal snake's rules apply. The bot's winning chance is 100%. The cycle is different every time.
 
 # Main menu:
 ![obraz](https://github.com/mikolajWasik/snake/assets/96197911/7526ea2f-3c41-405b-8012-3d234cda4afc)
